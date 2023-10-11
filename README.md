@@ -2,6 +2,7 @@
 
 <h1>BACKEND</h1>
 <h6>Ativar ambiente virtual: .venv/Scripts/active.bat </h6>
+<h6>Instalar Libs : pip install -r requirements.txt</h6>
 <h6>Ativar servidor: python manage.py runserver </h6>
 
 
